@@ -1073,6 +1073,7 @@ a:hover {
 }
 
 .testimonial-box .author-test img {
+  width: 100%;
   max-width: 550px;
   margin: 0 auto;
 }
